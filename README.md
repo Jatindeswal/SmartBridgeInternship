@@ -24,6 +24,7 @@ The solution is designed to help delivery teams centralize parcel records, autom
 - **User Interface:** Lightning App Page, Dynamic Forms, and the SwiftShip Tracker app
 - **Security Model:** Administrator, Delivery Manager, Agent, and Customer roles with profile and record-level access controls
 
+
 ## Documentation
 
 The project documentation is included in `SwiftShip Tracker Documentation.docx` and describes the requirement analysis, Salesforce setup, custom object creation, automation plan, AI integration, reporting, and security design.
