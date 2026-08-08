@@ -5,9 +5,6 @@ SwiftShip Tracker is a scalable, end-to-end CRM solution built within a Salesfor
 
 The architecture bridges critical visibility gaps by automating milestone updates, securing multi-tenant customer data, and introducing conversational intelligence via Salesforce Agentforce.
 
-## 📂 Core Project Deliverables
-All project requirements, architectural configurations, schema screenshots, and code components are fully consolidated into a single, comprehensive PDF document.
-
 ---
 
 ## 🏗️ Technical Architecture Highlights
